@@ -1,0 +1,23 @@
+abrir o git bash (ou ir na pasta direto e com o botão direito clicar git bash here)
+
+se o hit abrir fora da pasta, usar "cd NOMEPASTA/" para abrir ela(s)
+
+comando "ls" para para ver os arquivos da pasta pelo git
+
+executar comando "git init" para virar (master)
+
+colar o link do repositorio do github, exemplo: git remote add origin https://github.com/Alexandrespin/projetoomma.git
+
+confirmar o link com "git remote" e aparecer origin
+
+confirmar status com "git status"
+
+adicionar os arquivos com "git add . "
+
+Descrever o commit do arquivo com "git commit -m "nome da mudança"
+
+usar o "git push -u origin master" para enviar o arquivo
+
+Criar um novo brench utilizar "git checkout -b novabrench"
+
+git push origin novabrench ou master
